@@ -75,6 +75,6 @@ The dataset is included in the `LPR DataSet/` folder:
 
 ## 📄 Documentation
 
-- [Project Report PDF](LPR%20Documentation.pdf)  
+- [Project Report PDF](https://github.com/Yehiahany2005/License-Plate-Recognition-System/blob/main/LPR%20Documentation.pdf)  
 - [Project Presentation PPTX](LPR%20Presentation.pptx)  
 
